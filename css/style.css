@@ -6,12 +6,15 @@
 body {
   width: 1374px;
   margin: 0 auto;
-  background-color: #000000;
+  background-color: #F8F8FF;
 }
 
 /* NAVBAR */
 .navbar {
-  background-color: #4C4D4F;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
 }
 
 .navbar ul {

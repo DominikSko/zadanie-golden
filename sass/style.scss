@@ -13,14 +13,17 @@ $font-family: 'Liu Jian Mao Cao', cursive;
 
 body { 
     width: 1374px; margin: 0 auto; 
-    background-color: $color-three;
+    background-color: $color-two;
 }
 
 /* NAVBAR */
 
 
 .navbar {
-   background-color: $color-four; 
+   position: absolute;
+   top: 0;
+   right: 0;
+   left: 0;
 }
 
 .navbar ul { 
